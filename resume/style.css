@@ -1,0 +1,89 @@
+#header{
+
+text-align: center;
+font-family: "Allerta Stencil", Sans-serif;
+font-size:100px;
+color: white;
+}
+#header2{
+  text-align: center;
+  font-family: "Allerta Stencil", Sans-serif;
+
+  color: white;
+
+}
+
+#example1 {
+  background-color: white;
+  background-position: right bottom, left top;
+  background-repeat: no-repeat, repeat;
+  padding: 15px;
+  text-align: center;
+}
+
+#skill{
+
+  background-color: white;
+  background-position: right bottom, left top;
+  background-repeat: no-repeat, repeat;
+  padding: 15px;
+
+
+}
+#top{
+
+  background-color: LightGreen;
+  background-position: right bottom, left top;
+  background-repeat: no-repeat, repeat;
+  padding: 15px;
+
+
+}
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding: 10px;
+  color: white;
+}
+.bm {width: 90%; background-color: #2196F3;}
+.english {width: 80%; background-color: #2196F3;}
+.word {width: 90%; background-color: #2196F3;}
+.excel {width: 80%; background-color: #2196F3;}
+.cplus {width: 80%; background-color: #2196F3;}
+.java {width: 70%; background-color: #2196F3;}
+.html {width: 60%; background-color: #2196F3;}
+.css {width: 40%; background-color: #2196F3;}
+.js {width: 40%; background-color: #2196F3;}
+
+
+.hero{
+  vertical-align: middle;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.experience{
+  background-color: LightGreen;
+  background-position: right bottom, left top;
+  background-repeat: no-repeat, repeat;
+  padding: 15px;
+  font-family: "Allerta Stencil", Sans-serif;
+  color: white;
+  list-style-type: circle;
+}
+
+
+#h1{
+text-align: center;
+
+}
+ul li{
+ font-size:30px;
+}
